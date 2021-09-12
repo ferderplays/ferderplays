@@ -1,14 +1,3 @@
 ### Hi there 👋
-
-<!--
-**FERDdeveloper/FERDdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ferderclient, PhobosC
-- 🌱 I’m currently learning Java, school things
-- 💬 Ask me about FFC
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: i'm non-binary :)
-- <img alt="a" class="a" src="https://giphy.com/gifs/bluh-AXHTK9FXCtLwHgevem">
--->
+<img src="https://media.giphy.com/media/AXHTK9FXCtLwHgevem/giphy.gif?cid=790b7611d31662a36bc32070ffe30c2ccce784ba3452dac0&rid=giphy.gif&ct=g">
+<a href="https://ferderplays.ferder.repl.co"><button>my website</button></a>
