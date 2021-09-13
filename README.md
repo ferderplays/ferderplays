@@ -1,5 +1,5 @@
 <body>
  <h>Hi there 👋</h>
- <img src="https://media.giphy.com/media/AXHTK9FXCtLwHgevem/giphy.gif?cid=790b7611d31662a36bc32070ffe30c2ccce784ba3452dac0&rid=giphy.gif&ct=g">
+ <img src="https://www.tiktok.com/@fairfunclientz.jar/video/7007465366347697414?lang=cs-CZ&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6913915970848687622">
  <a href="https://ferderplays.ferder.repl.co"><button>my website</button></a>
 </body>
