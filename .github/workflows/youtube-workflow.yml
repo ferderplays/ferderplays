@@ -1,0 +1,17 @@
+name: latest youtube vids
+
+on:
+  schedule:
+    #Runs every hour
+    - cron: '0 * * * *'
+  workflows_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: updates my readme
+    runs-on: edge-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCyJ-aUAFKrNII2I9m3KNXrw"

@@ -17,6 +17,9 @@
  </a>
 </p>
 
+### latest youtube vids
+<!-- Youtube vids:start -->
+<!-- Youtube vids:end -->
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=FERDdeveloper&theme=nord&margin-w=15&margin-h=15&column=8" alt="trophys" />
 </p>
