@@ -11,7 +11,7 @@
 <p align="center">
  <img src="https://discord.c99.nl/widget/theme-3/774005134690091028.png" />
  <img src="https://github-readme-stats.vercel.app/api?username=ferderplays&theme=dark" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferderplays&theme=dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferderplays&langs_count=8&&hide_title=true&hide_border=true&layout=compact&theme=dark" />
  <a href="https://ferderplaysnet.ferder.repl.co/" >
   <img src="https://shields.io/badge/age-13-gold"/>
  </a>
