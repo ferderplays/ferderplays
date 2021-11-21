@@ -1,5 +1,5 @@
 # sup it's me ferderplays
-> I'm a full-stack developer(means: i can develop both **malware** and **normal software**)
+> I'm a all-ware developer(means: i can develop both **malware** and **normal software**)
 
 > I'm from czechia(some people say it is the **most beatyful country in the word**, but i don't think so)
 
