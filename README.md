@@ -3,6 +3,8 @@
 
 > I'm from czechia(some people say it is the **most beatyful country in the word**, but i don't think so)
 
+> I'm mostly frontend programmer(I mainly focus on look of my projects)
+
 > I also have a <a href="https://www.youtube.com/channel/UCyJ-aUAFKrNII2I9m3KNXrw">youtube channel</a>, where i upload **cpvp** vids
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=FERDdeveloper" />
