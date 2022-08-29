@@ -7,7 +7,7 @@
 
 > I also have a <a href="https://www.youtube.com/channel/UCyJ-aUAFKrNII2I9m3KNXrw">youtube channel</a>, where i upload **cpvp** vids
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=FERDdeveloper" />
+    <img src="https://komarev.com/ghpvc/?username=FERDdeveloper&color=success&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferderplays&langs_count=8&&hide_title=true&hide_border=true&layout=compact&theme=dark" />
  <img src="https://activity-graph.herokuapp.com/graph?username=ferderplays&theme=gruvbox" />
  <a href="https://ferderplaysnet.ferder.repl.co/" >
-  <img src="https://shields.io/badge/age-13-gold"/>
+  <img src="https://shields.io/badge/age-14-gold?style=for-the-badge"/>
  </a>
 </p>
 
