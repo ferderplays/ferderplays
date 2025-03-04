@@ -15,7 +15,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=ferderplays&theme=dark" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferderplays&langs_count=8&&hide_title=true&hide_border=true&layout=compact&theme=dark" />
  <img src="https://activity-graph.herokuapp.com/graph?username=ferderplays&theme=gruvbox" />
- <a href="https://ferderplaysnet.ferder.repl.co/" >
+ <a href="https://ferderplays.github.io/" >
   <img src="https://shields.io/badge/age-16-gold?style=for-the-badge"/>
  </a>
 </p>
