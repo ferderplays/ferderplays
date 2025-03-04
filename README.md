@@ -1,11 +1,11 @@
 # sup it's me ferderplays
-> I'm a all-ware developer(means: i can develop both **malware** and **normal software**)
+> I'm a software developer
 
-> I'm from czechia(some people say it is the **most beatyful country in the word**, but i don't think so)
+> I'm from Czechia
 
-> I'm mostly frontend programmer(I mainly focus on look of my projects)
+> I'm mostly a frontend programmer
 
-> I also have a <a href="https://www.youtube.com/channel/UCyJ-aUAFKrNII2I9m3KNXrw">youtube channel</a>, where i upload **cpvp** vids
+> I also have a <a href="https://www.youtube.com/@ferdisishere">youtube channel</a>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=FERDdeveloper&color=success&style=for-the-badge" />
 </p>
