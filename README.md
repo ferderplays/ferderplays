@@ -1,4 +1,5 @@
 # sup it's me Ferdis
+> I'm 17
 > I'm a frontend developer from Czechia<br>
 > I like to code in HTML, CSS, JS, and Java<br>
 > Outside of coding i am also interested in severe weather, seeking Christ, and in the languages of the world<br>
